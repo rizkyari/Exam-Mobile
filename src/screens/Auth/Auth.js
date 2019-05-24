@@ -120,7 +120,7 @@ class AuthScreen extends Component {
 
             headingTextControl1 = (
                 <MainText>
-                    <HeadingText>Reyhan Raditya</HeadingText>
+                    <HeadingText>Rizky Ariananda Hartono</HeadingText>
                 </MainText>
             )
 
@@ -133,6 +133,7 @@ class AuthScreen extends Component {
 
         return (
             <ImageBackground source={imageBackground} style={styles.backgroundImage}>
+                <HeadingText>Rizky Ariananda Hartono</HeadingText>
                 <KeyboardAvoidingView behavior='padding' style={styles.container}>
                     {headingTextControl1}
                     {headingTextControl}

@@ -1,13 +1,13 @@
 import firebase from 'firebase'
 
 var firebaseConfig = {
-  apiKey: "AIzaSyC3fJy1IAf7_1j45l2UMLsq58_vmlkcRw8",
-  authDomain: "mobileexams-rey.firebaseapp.com",
-  databaseURL: "https://mobileexams-rey.firebaseio.com",
-  projectId: "mobileexams-rey",
-  storageBucket: "mobileexams-rey.appspot.com",
-  messagingSenderId: "595380913750",
-  appId: "1:595380913750:web:a3c0a3cb707ad114"
+  apiKey: "AIzaSyBBqd_v7UcosZKr0ZbiB7uEb-2sFKKGdLU",
+  authDomain: "jc8reactnative-225f1.firebaseapp.com",
+  databaseURL: "https://jc8reactnative-225f1.firebaseio.com",
+  projectId: "jc8reactnative-225f1",
+  storageBucket: "jc8reactnative-225f1.appspot.com",
+  messagingSenderId: "284174172289",
+  appId: "1:284174172289:web:1601bcac49e7c183"
 };
 
 // Initialize Firebase
